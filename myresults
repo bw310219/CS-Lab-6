@@ -1,0 +1,8 @@
+Script started on 2020-10-04 21:47:41-0400
+bwebb@pu1:~/CS2401/CS-Lab-6$ .[K,[K,.[K[K,.[K[K./a.out
+Now showing list One:
+Charlie  Lisa  Drew  Derrick  AJ  Bojian  Enter a name to search:Charlie
+That name is stored at address: 0x55ac2b6ebe70
+Charlie  Lisa  Drew  Derrick  AJ  Bojian  bwebb@pu1:~/CS2401/CS-Lab-6$ exit
+
+Script done on 2020-10-04 21:48:00-0400
